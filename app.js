@@ -23,7 +23,7 @@ document.write(`
     <h2>Descripción:</h2>
     <p>${descripcion}</p>
 </div>
-<table border>
+<table>
     <caption>Especificaciones</caption>
     <tr>
         <td>Número máximo de jugadores</td>
