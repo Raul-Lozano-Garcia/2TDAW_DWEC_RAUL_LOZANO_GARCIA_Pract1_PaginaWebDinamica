@@ -38,9 +38,12 @@ h1{
 }
 
 table,div{
-    border-collapse: collapse;
     width: 50%;
     margin:3em auto;
+}
+
+table{
+    border-collapse: collapse;
 }
 
 caption{
